@@ -1,4 +1,5 @@
 {
-  "chapters":"1",
-  "format":"webp"
+  "chapters":["1"],
+  "format":"webp",
+  "1":"22"
 }
